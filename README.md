@@ -1,8 +1,6 @@
 ## Sistema de Controle de Estoque
-.
-.
-.
 *Descrição*: Uma aplicação para gerenciar o estoque de produtos de uma loja;
+
 *Funcionalidades*:
   - Cadastro de produtos com categorias e fornecedores.
   - Controle de entrada e saída de produtos.
