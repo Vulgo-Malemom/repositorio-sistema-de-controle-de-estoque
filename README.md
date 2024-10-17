@@ -6,5 +6,6 @@
   - Controle de entrada e saída de produtos.
   - Relatórios de estoque mínimo e produtos esgotados.
   - Persistência de dados com ADO.NET e EF Core.
+  - Controle de versão de item de estoque
 
 *Conceitos*: Composição (produtos e fornecedores), padrões de projeto como Singleton para acesso ao estoque, UML para modelagem do sistema, tratamento de exceções, testes e depuração, interface com console e MAUI.
